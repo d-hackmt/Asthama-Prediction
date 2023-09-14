@@ -31,4 +31,3 @@ XGBoost
 
 Our models achieved an accuracy score of 0.75, marking a significant step forward in enhancing patient care. We are excited about the potential impact of our work and remain committed to furthering the application of AI in healthcare.
 
-#AsthmaPrediction #MachineLearning #HealthcareAI #DataScience #HealthTech # Art #PredictiveAnalytics #DigitalHealth #HealthcareInnovation #PrecisionMedicine #TechInMedicine #HealthcareSolutions #MedicalResearch #HealthDataScience #PatientCare #MLModels #HealthcareImprovement
